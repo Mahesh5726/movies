@@ -7,7 +7,7 @@
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "start" : "npx ts-node .src/index.ts"
+    "start" : "npx ts-node src/index.ts"
   },
   "devDependencies": {
     "@types/node": "^22.13.10",
